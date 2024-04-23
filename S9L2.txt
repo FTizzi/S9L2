@@ -1,0 +1,21 @@
+- Inondazione sull'asset (Edifico Secondario)
+           SLE = AV x EF = 150000 euro x 0,40 = 60000 euro
+
+           ALE = SLE x ARO = 60000 euro x 0,02 = 1200 euro/anno
+
+- Terremoto sull'asset (Edifico Secondario)
+           SLE = AV x EF = 100000 euro x 0,95 =95000 euro
+
+           ALE = SLE x ARO = 60000 euro x 0,03 = 2850 euro/anno 
+
+- Incendio sull'asset (Edifico Secondario)
+           SLE = AV x EF = 350000 euro x 0,60 = 210000 euro
+
+           ALE = SLE x ARO = 210000 euro x 0,05 = 10500 euro/anno
+
+
+SLE: Single Loss Expectancy
+AV: Asset Value
+EF: Exposure Factor
+ALE: annualized Loss Expectancy
+ARO: Annualized Rate of Occurrence
